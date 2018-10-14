@@ -1,4 +1,4 @@
-Git HUb
+<h1 align=center>Git HUb</h1>
 
  Branch e mergers como funcionará a branch? Trabalho está pronto, mas surge a necessidade de alterar algumas partes dele como forma de melhorá-lo. Além disso, você precisa manter estas alterações tanto no computador de casa quanto da instituição de ensino. Com isso temos um problema, se você começa a alterar os arquivos em casa, para na metade da implementação, e precisa terminar na instituição de ensino, como você iria comitar tudo pela metade e deixar o trabalho pela metade incompleto?
 
